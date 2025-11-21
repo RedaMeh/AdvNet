@@ -1,0 +1,1 @@
+for i in $(seq 1 5); do    echo "r$i.cmd('/usr/lib/frr/zebra -d -f /home/advnet/Desktop/lab4/configs/zebra_r$i.cfg -i /home/advnet/Desktop/lab4/run/zebra_r$i.pid -z /home/advnet/Desktop/lab4/run/frr_r$i.api -u frr -g frr')"; done

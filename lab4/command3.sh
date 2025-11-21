@@ -1,0 +1,1 @@
+for i in $(seq 1 5); do    echo "r$i  /usr/lib/frr/ospfd -d -f /home/advnet/Desktop/lab4/configs/ospfd_r$i.cfg -i /home/advnet/Desktop/lab4/run/ospfd_r$i.pid -z /home/advnet/Desktop/lab4/run/frr_r$i.api -u frr -g frr"; done
