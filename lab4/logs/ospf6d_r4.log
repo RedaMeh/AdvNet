@@ -1,0 +1,52 @@
+2025/11/21 16:06:12 OSPF6: [TGY3Y-TNWHZ] Higher order sequence number 3 read for default process Success
+2025/11/21 16:06:12 OSPF6: [H12G7-14H22] Higher order sequence number 4 update for default process
+2025/11/21 16:06:12 OSPF6: [H7PTK-AJYQG] Interface Event r4-eth1: [InterfaceDown]
+2025/11/21 16:06:12 OSPF6: [H7PTK-AJYQG] Interface Event r4-eth2: [InterfaceDown]
+2025/11/21 16:06:12 OSPF6: [YAF85-253AP][EC 100663299] buffer_flush_available: write error on fd 2: Bad file descriptor
+2025/11/21 16:06:12 OSPF6: [YAF85-253AP][EC 100663299] buffer_flush_available: write error on fd 2: Bad file descriptor
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth1: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::6069:d8ff:fea9:bd12/64
+2025/11/21 16:06:12 OSPF6: [Z6J5Y-7T6B5] Interface state change r4-eth1: Down -> Waiting
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::6069:d8ff:fea9:bd12/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth1: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth1 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::6069:d8ff:fea9:bd12/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth2: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::7c30:7ff:fea0:faea/64
+2025/11/21 16:06:12 OSPF6: [Z6J5Y-7T6B5] Interface state change r4-eth2: Down -> Waiting
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::7c30:7ff:fea0:faea/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth2: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth2 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::7c30:7ff:fea0:faea/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth1: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth1 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::6069:d8ff:fea9:bd12/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth1: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth1 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::6069:d8ff:fea9:bd12/64
+2025/11/21 16:06:12 OSPF6: [YWKRY-MSCC3] ospf6_spf_calculation: No router LSA for area 0.0.0.0
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth2: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth2 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::7c30:7ff:fea0:faea/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth2: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth2 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::7c30:7ff:fea0:faea/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth1: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth1 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::6069:d8ff:fea9:bd12/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth1: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth1 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::6069:d8ff:fea9:bd12/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth2: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth2 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::7c30:7ff:fea0:faea/64
+2025/11/21 16:06:12 OSPF6: [TB8WK-36NCK] Interface Event r4-eth2: [InterfaceUp]
+2025/11/21 16:06:12 OSPF6: [GH82B-VHMX0] Interface r4-eth2 already enabled
+2025/11/21 16:06:12 OSPF6: [HQTA4-1EZ3B] Filter out Linklocal: fe80::7c30:7ff:fea0:faea/64
+2025/11/21 16:06:12 OSPF6: [YWKRY-MSCC3] ospf6_spf_calculation: No router LSA for area 0.0.0.0
+2025/11/21 16:06:52 OSPF6: [Z6238-ZD672] Interface Event r4-eth1: [WaitTimer]
+2025/11/21 16:06:52 OSPF6: [TETSF-JC108] DR Election on r4-eth1: DR: 10.10.45.4 BDR: 0.0.0.0
+2025/11/21 16:06:52 OSPF6: [Z6J5Y-7T6B5] Interface state change r4-eth1: Waiting -> DR
+2025/11/21 16:06:52 OSPF6: [Z6238-ZD672] Interface Event r4-eth2: [WaitTimer]
+2025/11/21 16:06:52 OSPF6: [TETSF-JC108] DR Election on r4-eth2: DR: 10.10.45.4 BDR: 0.0.0.0
+2025/11/21 16:06:52 OSPF6: [Z6J5Y-7T6B5] Interface state change r4-eth2: Waiting -> DR

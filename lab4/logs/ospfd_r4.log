@@ -1,0 +1,1148 @@
+2025/11/21 16:06:01 OSPF: [G2X4Z-48F57] ospf_new_alloc: Create new ospf instance with vrf_name default vrf_id 0
+2025/11/21 16:06:01 OSPF: [R459R-5628E] ospf_zebra_vrf_register: Register VRF default id 0
+2025/11/21 16:06:01 OSPF: [MW8H0-YNNJ2] Router-ID[OLD:0.0.0.0]: Update
+2025/11/21 16:06:01 OSPF: [Q8YW1-XRGKE] Router-ID[OLD:0.0.0.0]: Update to 0.0.0.0
+2025/11/21 16:06:01 OSPF: [R3GZN-N6Y9T] Config command 'router ospf 0' received, vrf default id 0 oi_running 1
+2025/11/21 16:06:01 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:01 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:01 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 0
+2025/11/21 16:06:01 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 0
+2025/11/21 16:06:01 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 0
+2025/11/21 16:06:01 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 0
+2025/11/21 16:06:01 OSPF: [MW8H0-YNNJ2] Router-ID[OLD:0.0.0.0]: Update
+2025/11/21 16:06:01 OSPF: [Q8YW1-XRGKE] Router-ID[OLD:0.0.0.0]: Update to 0.0.0.0
+2025/11/21 16:06:01 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:01 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:01 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 0
+2025/11/21 16:06:01 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 0
+2025/11/21 16:06:01 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 0
+2025/11/21 16:06:01 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 0
+2025/11/21 16:06:01 OSPF: [MW8H0-YNNJ2] Router-ID[OLD:0.0.0.0]: Update
+2025/11/21 16:06:01 OSPF: [Q8YW1-XRGKE] Router-ID[OLD:0.0.0.0]: Update to 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface lo vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 0.0.0.0
+2025/11/21 16:06:01 OSPF: [MW8H0-YNNJ2] Router-ID[OLD:0.0.0.0]: Update
+2025/11/21 16:06:01 OSPF: [Q8YW1-XRGKE] Router-ID[OLD:0.0.0.0]: Update to 10.10.45.4
+2025/11/21 16:06:01 OSPF: [VJ20V-VR5N7] Router-ID[NEW:10.10.45.4]: Update
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface lo vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:01 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:01 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 0
+2025/11/21 16:06:01 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 0
+2025/11/21 16:06:01 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 0
+2025/11/21 16:06:01 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 0
+2025/11/21 16:06:01 OSPF: [Y6C8B-E12XX] ospf_if_new: ospf interface r4-eth1 vrf default id 0 created
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [Y6C8B-E12XX] ospf_if_new: ospf interface r4-eth2 vrf default id 0 created
+2025/11/21 16:06:01 OSPF: [XE530-NZCA3] interface 10.10.14.4 [2] join AllSPFRouters Multicast group.
+2025/11/21 16:06:01 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:01 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:01 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:01 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 0
+2025/11/21 16:06:01 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:01 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 0
+2025/11/21 16:06:01 OSPF: [QKXMK-JYGQ4] [router-LSA]: (router-LSA area update)
+2025/11/21 16:06:01 OSPF: [W161F-1GN7D] counting fully adjacent virtual neighbors in area 0.0.0.0
+2025/11/21 16:06:01 OSPF: [YE8ZF-TCR6A] there are 0 of them
+2025/11/21 16:06:01 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:01 OSPF: [WGFTV-3KM3B] SPF: calculation timer delay = 0 msec
+2025/11/21 16:06:01 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:01 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:01 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:01 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:01 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:01 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:01 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:01 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 1
+2025/11/21 16:06:01 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:01 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 1
+2025/11/21 16:06:01 OSPF: [XE530-NZCA3] interface 10.10.45.4 [3] join AllSPFRouters Multicast group.
+2025/11/21 16:06:01 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:01 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:01 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:01 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 1
+2025/11/21 16:06:01 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:01 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 1
+2025/11/21 16:06:01 OSPF: [QKXMK-JYGQ4] [router-LSA]: (router-LSA area update)
+2025/11/21 16:06:01 OSPF: [W161F-1GN7D] counting fully adjacent virtual neighbors in area 0.0.0.0
+2025/11/21 16:06:01 OSPF: [YE8ZF-TCR6A] there are 0 of them
+2025/11/21 16:06:01 OSPF: [T49CC-ZS33K] ospf_lsa_maxage_delete: lsa Type1,id(10.10.45.4),ar(10.10.45.4) is not found in maxage db.
+2025/11/21 16:06:01 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:01 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947300dd100
+2025/11/21 16:06:01 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:01 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:01 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:01 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:01 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:01 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:01 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:01 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 1
+2025/11/21 16:06:01 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:01 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 1
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface lo vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [P43T9-HM2M6] SPF: Timer (SPF calculation expire)
+2025/11/21 16:06:01 OSPF: [S1FG7-WJ415] ospf_spf_calculate: Start: running Dijkstra for area 0.0.0.0
+2025/11/21 16:06:01 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.45.4
+2025/11/21 16:06:01 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.45.4
+2025/11/21 16:06:01 OSPF: [SK0YS-JEEHQ] SPF Result: 0 [R] 10.10.45.4
+2025/11/21 16:06:01 OSPF: [WS1E3-63QTY] ========== OSPF routing table ==========
+2025/11/21 16:06:01 OSPF: [X9F7Y-T5KZ8] ========================================
+2025/11/21 16:06:01 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:01 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.45.4
+2025/11/21 16:06:01 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 2 links to process
+2025/11/21 16:06:01 OSPF: [RMYP3-T3NWD] ospf_intra_add_stub: Start
+2025/11/21 16:06:01 OSPF: [X2VER-QSG31] ospf_intra_add_stub: processing route to 10.10.14.0/24
+2025/11/21 16:06:01 OSPF: [H47GD-RN8CW] ospf_intra_add_stub: calculated cost is 0 + 10 = 10
+2025/11/21 16:06:01 OSPF: [QK7NM-FD67D] ospf_intra_add_stub: installing new route
+2025/11/21 16:06:01 OSPF: [XB6VP-YXKFF] ospf_intra_add_stub: this network is on this router
+2025/11/21 16:06:01 OSPF: [JHQDX-M9R7H] ospf_intra_add_stub: the lsa pos is 0
+2025/11/21 16:06:01 OSPF: [RX9VN-BSRSB] ospf_intra_add_stub: Stop
+2025/11/21 16:06:01 OSPF: [RMYP3-T3NWD] ospf_intra_add_stub: Start
+2025/11/21 16:06:01 OSPF: [X2VER-QSG31] ospf_intra_add_stub: processing route to 10.10.45.0/24
+2025/11/21 16:06:01 OSPF: [H47GD-RN8CW] ospf_intra_add_stub: calculated cost is 0 + 10 = 10
+2025/11/21 16:06:01 OSPF: [QK7NM-FD67D] ospf_intra_add_stub: installing new route
+2025/11/21 16:06:01 OSPF: [XB6VP-YXKFF] ospf_intra_add_stub: this network is on this router
+2025/11/21 16:06:01 OSPF: [JHQDX-M9R7H] ospf_intra_add_stub: the lsa pos is 1
+2025/11/21 16:06:01 OSPF: [RX9VN-BSRSB] ospf_intra_add_stub: Stop
+2025/11/21 16:06:01 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:01 OSPF: [N0B64-84ZHN] ospf_spf_calculate Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:01 OSPF: [MM90D-TJ7JR] ospf_spf_calculate: Stop. 1 vertices
+2025/11/21 16:06:01 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.45.4
+2025/11/21 16:06:01 OSPF: [JAPQ7-AWTY4] ospf_ia_routing:start
+2025/11/21 16:06:01 OSPF: [WYB8H-5T9YS] ospf_ia_routing:not ABR, considering all areas
+2025/11/21 16:06:01 OSPF: [JC7WM-A8RFR] Pruning unreachable networks
+2025/11/21 16:06:01 OSPF: [Q5QBP-7T7ZK] Pruning unreachable routers
+2025/11/21 16:06:01 OSPF: [QT6FN-QCD74] ospf_spf_calculate_schedule_worker: ospf install new route, vrf default id 0 new_table count 3
+2025/11/21 16:06:01 OSPF: [HRX11-4AW3M] SPF Processing Time(usecs): 69
+2025/11/21 16:06:01 OSPF: [PTGD1-YB1H9]             SPF Time: 16
+2025/11/21 16:06:01 OSPF: [J4YGV-BR16C]            InterArea: 1
+2025/11/21 16:06:01 OSPF: [HK5RG-M3KT0]                Prune: 1
+2025/11/21 16:06:01 OSPF: [ZQD66-8SF2N]         RouteInstall: 49
+2025/11/21 16:06:01 OSPF: [GWR1S-5R9KH] Reason(s) for SPF: R
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [MW8H0-YNNJ2] Router-ID[OLD:10.10.45.4]: Update
+2025/11/21 16:06:01 OSPF: [Q8YW1-XRGKE] Router-ID[OLD:10.10.45.4]: Update to 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface lo vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth1 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [NVYPS-W41RF] ospf_if_update: interface r4-eth2 vrf default(0) ospf vrf default vrf_id 0 router_id 10.10.45.4
+2025/11/21 16:06:01 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:06:01 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:06:01 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32730, off 0, len 64, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:01 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:01 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32731, off 0, len 64, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:01 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:02 OSPF: [RHDX2-GZB1C] SPF Processing Time(usecs): External Routes: 5
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:06 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:06 OSPF: [HWEDJ-F356H] NSM[r4-eth1:10.10.14.4:0.0.0.0]: start
+2025/11/21 16:06:06 OSPF: [P4PQ9-K4XFD] DR-Election[1st]: Backup 10.10.14.4
+2025/11/21 16:06:06 OSPF: [HBZ7F-65Y86] DR-Election[1st]: DR     10.10.14.1
+2025/11/21 16:06:06 OSPF: [H01MF-RN00N] DR-Election[2nd]: Backup 10.10.14.4
+2025/11/21 16:06:06 OSPF: [R7BJ4-KP8JT] DR-Election[2nd]: DR     10.10.14.1
+2025/11/21 16:06:06 OSPF: [RY794-DQ7AK] interface 10.10.14.4 [2] join AllDRouters Multicast group.
+2025/11/21 16:06:06 OSPF: [QKXMK-JYGQ4] [router-LSA]: (router-LSA area update)
+2025/11/21 16:06:06 OSPF: [W161F-1GN7D] counting fully adjacent virtual neighbors in area 0.0.0.0
+2025/11/21 16:06:06 OSPF: [YE8ZF-TCR6A] there are 0 of them
+2025/11/21 16:06:06 OSPF: [T49CC-ZS33K] ospf_lsa_maxage_delete: lsa Type1,id(10.10.45.4),ar(10.10.45.4) is not found in maxage db.
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:06 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:06 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:06 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 1
+2025/11/21 16:06:06 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:06 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 1
+2025/11/21 16:06:06 OSPF: [P4PQ9-K4XFD] DR-Election[1st]: Backup 10.10.14.4
+2025/11/21 16:06:06 OSPF: [HBZ7F-65Y86] DR-Election[1st]: DR     10.10.14.1
+2025/11/21 16:06:06 OSPF: [K41K4-M4HP2] ospf_write to 10.10.14.1, id 32732, off 0, len 52, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:06 OSPF: [GP5SX-XSB6D] Database Description sent to [10.10.14.1] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Database Description received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [10.10.14.4]
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Database Description received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [10.10.14.4]
+2025/11/21 16:06:06 OSPF: [S5PCG-77H23] Packet[DD]: Neighbor 10.10.14.1 Negotiation done (Master).
+2025/11/21 16:06:06 OSPF: [K41K4-M4HP2] ospf_write to 10.10.14.1, id 32733, off 0, len 72, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:06 OSPF: [GP5SX-XSB6D] Database Description sent to [10.10.14.1] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:06 OSPF: [K41K4-M4HP2] ospf_write to 10.10.14.1, id 32734, off 0, len 140, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:06 OSPF: [GP5SX-XSB6D] Link State Request sent to [10.10.14.1] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Database Description received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [10.10.14.4]
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Link State Request received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [10.10.14.4]
+2025/11/21 16:06:06 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:06 OSPF: [K6178-QCVRR] listcount = 1, [r4-eth1:10.10.14.4]dst 224.0.0.5
+2025/11/21 16:06:06 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:06 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.45.4),ar(10.10.45.4)]
+2025/11/21 16:06:06 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:06 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:06 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32735, off 0, len 96, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:06 OSPF: [GP5SX-XSB6D] Link State Update sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Link State Update received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.14.1]: 0x5947301f4c30 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.25.2]: 0x5947301f4d10 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.35.3]: 0x5947301f4df0 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.45.5]: 0x5947301f4e80 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type2:10.10.12.2]: 0x5947301f4f80 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type2:10.10.23.3]: 0x5947301f5060 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type2:10.10.25.5]: 0x5947301f5140 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type2:10.10.35.5]: 0x5947301f5220 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type1,id(10.10.14.1),ar(10.10.14.1)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.14.1),ar(10.10.14.1)] AGE 441
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.14.1),ar(10.10.14.1)] AGE 441
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [WGFTV-3KM3B] SPF: calculation timer delay = 0 msec
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type1,id(10.10.25.2),ar(10.10.25.2)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.25.2),ar(10.10.25.2)] AGE 420
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.25.2),ar(10.10.25.2)] AGE 420
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type1,id(10.10.35.3),ar(10.10.35.3)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.35.3),ar(10.10.35.3)] AGE 420
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.35.3),ar(10.10.35.3)] AGE 420
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type1,id(10.10.45.5),ar(10.10.45.5)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.45.5),ar(10.10.45.5)] AGE 420
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type1,id(10.10.45.5),ar(10.10.45.5)] AGE 420
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type2,id(10.10.12.2),ar(10.10.25.2)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.12.2),ar(10.10.25.2)] AGE 442
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.12.2),ar(10.10.25.2)] AGE 442
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type2,id(10.10.23.3),ar(10.10.35.3)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.23.3),ar(10.10.35.3)] AGE 434
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.23.3),ar(10.10.35.3)] AGE 434
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type2,id(10.10.25.5),ar(10.10.45.5)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.25.5),ar(10.10.45.5)] AGE 421
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.25.5),ar(10.10.45.5)] AGE 421
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Loading), cur(0x0), New-LSA[Type2,id(10.10.35.5),ar(10.10.45.5)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.35.5),ar(10.10.45.5)] AGE 421
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Loading
+2025/11/21 16:06:06 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.14.1 is not Full (Loading)
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.35.5),ar(10.10.45.5)] AGE 421
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:06 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:06 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:06 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 1
+2025/11/21 16:06:06 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:06 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 1
+2025/11/21 16:06:06 OSPF: [QKXMK-JYGQ4] [router-LSA]: (router-LSA area update)
+2025/11/21 16:06:06 OSPF: [W161F-1GN7D] counting fully adjacent virtual neighbors in area 0.0.0.0
+2025/11/21 16:06:06 OSPF: [YE8ZF-TCR6A] there are 0 of them
+2025/11/21 16:06:06 OSPF: [T49CC-ZS33K] ospf_lsa_maxage_delete: lsa Type1,id(10.10.45.4),ar(10.10.45.4) is not found in maxage db.
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f4ac0
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Full
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [P43T9-HM2M6] SPF: Timer (SPF calculation expire)
+2025/11/21 16:06:06 OSPF: [S1FG7-WJ415] ospf_spf_calculate: Start: running Dijkstra for area 0.0.0.0
+2025/11/21 16:06:06 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.45.4
+2025/11/21 16:06:06 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.45.4
+2025/11/21 16:06:06 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.14.1
+2025/11/21 16:06:06 OSPF: [Z819B-XGH48] No LSA found
+2025/11/21 16:06:06 OSPF: [SK0YS-JEEHQ] SPF Result: 0 [R] 10.10.45.4
+2025/11/21 16:06:06 OSPF: [WS1E3-63QTY] ========== OSPF routing table ==========
+2025/11/21 16:06:06 OSPF: [X9F7Y-T5KZ8] ========================================
+2025/11/21 16:06:06 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:06 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.45.4
+2025/11/21 16:06:06 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 2 links to process
+2025/11/21 16:06:06 OSPF: [RMYP3-T3NWD] ospf_intra_add_stub: Start
+2025/11/21 16:06:06 OSPF: [X2VER-QSG31] ospf_intra_add_stub: processing route to 10.10.45.0/24
+2025/11/21 16:06:06 OSPF: [H47GD-RN8CW] ospf_intra_add_stub: calculated cost is 0 + 10 = 10
+2025/11/21 16:06:06 OSPF: [QK7NM-FD67D] ospf_intra_add_stub: installing new route
+2025/11/21 16:06:06 OSPF: [XB6VP-YXKFF] ospf_intra_add_stub: this network is on this router
+2025/11/21 16:06:06 OSPF: [JHQDX-M9R7H] ospf_intra_add_stub: the lsa pos is 1
+2025/11/21 16:06:06 OSPF: [RX9VN-BSRSB] ospf_intra_add_stub: Stop
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN] ospf_spf_calculate Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:06 OSPF: [MM90D-TJ7JR] ospf_spf_calculate: Stop. 1 vertices
+2025/11/21 16:06:06 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.45.4
+2025/11/21 16:06:06 OSPF: [JAPQ7-AWTY4] ospf_ia_routing:start
+2025/11/21 16:06:06 OSPF: [WYB8H-5T9YS] ospf_ia_routing:not ABR, considering all areas
+2025/11/21 16:06:06 OSPF: [JC7WM-A8RFR] Pruning unreachable networks
+2025/11/21 16:06:06 OSPF: [Q5QBP-7T7ZK] Pruning unreachable routers
+2025/11/21 16:06:06 OSPF: [QT6FN-QCD74] ospf_spf_calculate_schedule_worker: ospf install new route, vrf default id 0 new_table count 1
+2025/11/21 16:06:06 OSPF: [HRX11-4AW3M] SPF Processing Time(usecs): 82
+2025/11/21 16:06:06 OSPF: [PTGD1-YB1H9]             SPF Time: 18
+2025/11/21 16:06:06 OSPF: [J4YGV-BR16C]            InterArea: 2
+2025/11/21 16:06:06 OSPF: [HK5RG-M3KT0]                Prune: 0
+2025/11/21 16:06:06 OSPF: [ZQD66-8SF2N]         RouteInstall: 60
+2025/11/21 16:06:06 OSPF: [GWR1S-5R9KH] Reason(s) for SPF: R, N
+2025/11/21 16:06:06 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:06 OSPF: [K6178-QCVRR] listcount = 1, [r4-eth1:10.10.14.4]dst 224.0.0.5
+2025/11/21 16:06:06 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:06 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.45.4),ar(10.10.45.4)]
+2025/11/21 16:06:06 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:06 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:06 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32736, off 0, len 96, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:06 OSPF: [GP5SX-XSB6D] Link State Update sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Link State Update received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.14.1]: 0x5947301f4410 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [NVWQG-0MJEV] LSA[Type2:10.10.14.1]: 0x5947301f5330 new LSA created with Link State Update
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Full), cur(0x5947301f4c30), New-LSA[Type1,id(10.10.14.1),ar(10.10.14.1)]
+2025/11/21 16:06:06 OSPF: [SWMWR-PCW95] default:LSA[Flooding]: LSA is received recently.
+2025/11/21 16:06:06 OSPF: [KPJSK-WQXZ5] ospf_lsa_discard() in ospf_ls_upd() point 5: lsa 0x5947301f4410 Type-1
+2025/11/21 16:06:06 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.14.1 (Full), cur(0x0), New-LSA[Type2,id(10.10.14.1),ar(10.10.14.1)]
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.14.1),ar(10.10.14.1)] AGE 1
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Full
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.14.1), LSA[Type2,id(10.10.14.1),ar(10.10.14.1)] AGE 1
+2025/11/21 16:06:06 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:06 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:06 OSPF: [WGFTV-3KM3B] SPF: calculation timer delay = 49 msec
+2025/11/21 16:06:06 OSPF: [P43T9-HM2M6] SPF: Timer (SPF calculation expire)
+2025/11/21 16:06:06 OSPF: [S1FG7-WJ415] ospf_spf_calculate: Start: running Dijkstra for area 0.0.0.0
+2025/11/21 16:06:06 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.45.4
+2025/11/21 16:06:06 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.45.4
+2025/11/21 16:06:06 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.14.1
+2025/11/21 16:06:06 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:06 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Network vertex 10.10.14.1
+2025/11/21 16:06:06 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.14.1  distance 0 flags 0
+2025/11/21 16:06:06 OSPF: [NXXE4-PQP43] V->W distance: 10
+2025/11/21 16:06:06 OSPF: [ZYVWC-X5FEN] ospf_nexthop_calculation: considering link type:2 link_id:10.10.14.1 link_data:10.10.14.4
+2025/11/21 16:06:06 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.45.4 as parent of 10.10.14.1
+2025/11/21 16:06:06 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Network vertex 10.10.14.1
+2025/11/21 16:06:06 OSPF: [VE2RF-67E8G] found Router LSA 10.10.14.1
+2025/11/21 16:06:06 OSPF: [R9BAP-F0K17] The LSA doesn't have a link back
+2025/11/21 16:06:06 OSPF: [VE2RF-67E8G] found Router LSA 10.10.45.4
+2025/11/21 16:06:06 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:06 OSPF: [SK0YS-JEEHQ] SPF Result: 0 [R] 10.10.45.4
+2025/11/21 16:06:06 OSPF: [PC8JR-2QBKA] SPF Result: 1 [N] 10.10.14.1/24
+2025/11/21 16:06:06 OSPF: [G5AK8-66BHD]  nexthop 0x5947301f2d20 0.0.0.0 0
+2025/11/21 16:06:06 OSPF: [WS1E3-63QTY] ========== OSPF routing table ==========
+2025/11/21 16:06:06 OSPF: [PKAC5-9QWWG] N 10.10.14.0/24      0.0.0.0         intra-area 10
+2025/11/21 16:06:06 OSPF: [RT8AF-HXCSD]   -> 0.0.0.0
+2025/11/21 16:06:06 OSPF: [X9F7Y-T5KZ8] ========================================
+2025/11/21 16:06:06 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:06 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.45.4
+2025/11/21 16:06:06 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 2 links to process
+2025/11/21 16:06:06 OSPF: [RMYP3-T3NWD] ospf_intra_add_stub: Start
+2025/11/21 16:06:06 OSPF: [X2VER-QSG31] ospf_intra_add_stub: processing route to 10.10.45.0/24
+2025/11/21 16:06:06 OSPF: [H47GD-RN8CW] ospf_intra_add_stub: calculated cost is 0 + 10 = 10
+2025/11/21 16:06:06 OSPF: [QK7NM-FD67D] ospf_intra_add_stub: installing new route
+2025/11/21 16:06:06 OSPF: [XB6VP-YXKFF] ospf_intra_add_stub: this network is on this router
+2025/11/21 16:06:06 OSPF: [JHQDX-M9R7H] ospf_intra_add_stub: the lsa pos is 1
+2025/11/21 16:06:06 OSPF: [RX9VN-BSRSB] ospf_intra_add_stub: Stop
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:06 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Network vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:06 OSPF: [NVPG7-N50C8] parent 10.10.45.4 backlink 1 nexthop 0.0.0.0 lsa pos 0
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN] ospf_spf_calculate Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:06 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.14.1  distance 10 flags 1
+2025/11/21 16:06:06 OSPF: [MM90D-TJ7JR] ospf_spf_calculate: Stop. 2 vertices
+2025/11/21 16:06:06 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.45.4
+2025/11/21 16:06:06 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Network vertex 10.10.14.1
+2025/11/21 16:06:06 OSPF: [JAPQ7-AWTY4] ospf_ia_routing:start
+2025/11/21 16:06:06 OSPF: [WYB8H-5T9YS] ospf_ia_routing:not ABR, considering all areas
+2025/11/21 16:06:06 OSPF: [JC7WM-A8RFR] Pruning unreachable networks
+2025/11/21 16:06:06 OSPF: [Q5QBP-7T7ZK] Pruning unreachable routers
+2025/11/21 16:06:06 OSPF: [QT6FN-QCD74] ospf_spf_calculate_schedule_worker: ospf install new route, vrf default id 0 new_table count 3
+2025/11/21 16:06:06 OSPF: [V4QH8-NMP5P] Route: Router Routing Table free
+2025/11/21 16:06:06 OSPF: [HRX11-4AW3M] SPF Processing Time(usecs): 107
+2025/11/21 16:06:06 OSPF: [PTGD1-YB1H9]             SPF Time: 33
+2025/11/21 16:06:06 OSPF: [J4YGV-BR16C]            InterArea: 1
+2025/11/21 16:06:06 OSPF: [HK5RG-M3KT0]                Prune: 1
+2025/11/21 16:06:06 OSPF: [ZQD66-8SF2N]         RouteInstall: 70
+2025/11/21 16:06:06 OSPF: [GWR1S-5R9KH] Reason(s) for SPF: N
+2025/11/21 16:06:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:06 OSPF: [XKX19-CCEJ5] Link State Acknowledgment received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:06 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32737, off 0, len 224, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Link State Acknowledgment sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:07 OSPF: [RHDX2-GZB1C] SPF Processing Time(usecs): External Routes: 2
+2025/11/21 16:06:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:07 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:07 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:07 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:07 OSPF: [HWEDJ-F356H] NSM[r4-eth2:10.10.45.4:0.0.0.0]: start
+2025/11/21 16:06:07 OSPF: [P4PQ9-K4XFD] DR-Election[1st]: Backup 10.10.45.4
+2025/11/21 16:06:07 OSPF: [HBZ7F-65Y86] DR-Election[1st]: DR     10.10.45.5
+2025/11/21 16:06:07 OSPF: [H01MF-RN00N] DR-Election[2nd]: Backup 10.10.45.4
+2025/11/21 16:06:07 OSPF: [R7BJ4-KP8JT] DR-Election[2nd]: DR     10.10.45.5
+2025/11/21 16:06:07 OSPF: [RY794-DQ7AK] interface 10.10.45.4 [3] join AllDRouters Multicast group.
+2025/11/21 16:06:07 OSPF: [QKXMK-JYGQ4] [router-LSA]: (router-LSA area update)
+2025/11/21 16:06:07 OSPF: [W161F-1GN7D] counting fully adjacent virtual neighbors in area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [YE8ZF-TCR6A] there are 0 of them
+2025/11/21 16:06:07 OSPF: [T49CC-ZS33K] ospf_lsa_maxage_delete: lsa Type1,id(10.10.45.4),ar(10.10.45.4) is not found in maxage db.
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Full
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.5 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:07 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:07 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:07 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 1
+2025/11/21 16:06:07 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:07 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 1
+2025/11/21 16:06:07 OSPF: [P4PQ9-K4XFD] DR-Election[1st]: Backup 10.10.45.4
+2025/11/21 16:06:07 OSPF: [HBZ7F-65Y86] DR-Election[1st]: DR     10.10.45.5
+2025/11/21 16:06:07 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:07 OSPF: [K6178-QCVRR] listcount = 1, [r4-eth1:10.10.14.4]dst 224.0.0.5
+2025/11/21 16:06:07 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:07 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.45.4),ar(10.10.45.4)]
+2025/11/21 16:06:07 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:07 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 10.10.45.5, id 32738, off 0, len 52, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Database Description sent to [10.10.45.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32739, off 0, len 96, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Link State Update sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:07 OSPF: [XKX19-CCEJ5] Database Description received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:07 OSPF: [M2FRZ-7P2EY]  dst [10.10.45.4]
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 10.10.45.5, id 32740, off 0, len 252, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Database Description sent to [10.10.45.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:07 OSPF: [XKX19-CCEJ5] Database Description received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:07 OSPF: [M2FRZ-7P2EY]  dst [10.10.45.4]
+2025/11/21 16:06:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:07 OSPF: [XKX19-CCEJ5] Link State Request received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:07 OSPF: [M2FRZ-7P2EY]  dst [10.10.45.4]
+2025/11/21 16:06:07 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:07 OSPF: [K6178-QCVRR] listcount = 1, [r4-eth2:10.10.45.4]dst 224.0.0.5
+2025/11/21 16:06:07 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:07 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.45.4),ar(10.10.45.4)]
+2025/11/21 16:06:07 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:07 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 10.10.45.5, id 32741, off 0, len 52, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Database Description sent to [10.10.45.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 10.10.45.5, id 32742, off 0, len 56, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Link State Request sent to [10.10.45.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32743, off 0, len 96, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Link State Update sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:07 OSPF: [XKX19-CCEJ5] Link State Update received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:07 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:07 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.14.1]: 0x5947301f6de0 new LSA created with Link State Update
+2025/11/21 16:06:07 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.45.5]: 0x5947301f6ec0 new LSA created with Link State Update
+2025/11/21 16:06:07 OSPF: [NVWQG-0MJEV] LSA[Type2:10.10.45.5]: 0x5947301f6fd0 new LSA created with Link State Update
+2025/11/21 16:06:07 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.45.5 (Loading), cur(0x5947301f4c30), New-LSA[Type1,id(10.10.14.1),ar(10.10.14.1)]
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.45.5), LSA[Type1,id(10.10.14.1),ar(10.10.14.1)] AGE 4
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Full
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.45.5), LSA[Type1,id(10.10.14.1),ar(10.10.14.1)] AGE 4
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.5 via r4-eth2:10.10.45.4 (default), state: Loading
+2025/11/21 16:06:07 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.45.5 is not Full (Loading)
+2025/11/21 16:06:07 OSPF: [T49CC-ZS33K] ospf_lsa_maxage_delete: lsa Type1,id(10.10.14.1),ar(10.10.14.1) is not found in maxage db.
+2025/11/21 16:06:07 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:07 OSPF: [WGFTV-3KM3B] SPF: calculation timer delay = 0 msec
+2025/11/21 16:06:07 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.45.5 (Loading), cur(0x5947301f4e80), New-LSA[Type1,id(10.10.45.5),ar(10.10.45.5)]
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.45.5), LSA[Type1,id(10.10.45.5),ar(10.10.45.5)] AGE 1
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Full
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.45.5), LSA[Type1,id(10.10.45.5),ar(10.10.45.5)] AGE 1
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.5 via r4-eth2:10.10.45.4 (default), state: Loading
+2025/11/21 16:06:07 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.45.5 is not Full (Loading)
+2025/11/21 16:06:07 OSPF: [T49CC-ZS33K] ospf_lsa_maxage_delete: lsa Type1,id(10.10.45.5),ar(10.10.45.5) is not found in maxage db.
+2025/11/21 16:06:07 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:07 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f6500
+2025/11/21 16:06:07 OSPF: [GAG1P-PT9JG] default:LSA[Flooding]: start, NBR 10.10.45.5 (Loading), cur(0x0), New-LSA[Type2,id(10.10.45.5),ar(10.10.45.5)]
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR(10.10.45.5), LSA[Type2,id(10.10.45.5),ar(10.10.45.5)] AGE 1
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Full
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR(10.10.45.5), LSA[Type2,id(10.10.45.5),ar(10.10.45.5)] AGE 1
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.5 via r4-eth2:10.10.45.4 (default), state: Loading
+2025/11/21 16:06:07 OSPF: [GM25M-EWFN6] ospf_flood_through_interface: adj to onbr 10.10.45.5 is not Full (Loading)
+2025/11/21 16:06:07 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:07 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f6500
+2025/11/21 16:06:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:07 OSPF: [XKX19-CCEJ5] Link State Acknowledgment received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:07 OSPF: [M2FRZ-7P2EY]  dst [10.10.45.4]
+2025/11/21 16:06:07 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:07 OSPF: [K6178-QCVRR] listcount = 3, [r4-eth1:10.10.14.4]dst 224.0.0.5
+2025/11/21 16:06:07 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:07 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.14.1),ar(10.10.14.1)]
+2025/11/21 16:06:07 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 1 LSA[Type1,id(10.10.45.5),ar(10.10.45.5)]
+2025/11/21 16:06:07 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 2 LSA[Type2,id(10.10.45.5),ar(10.10.45.5)]
+2025/11/21 16:06:07 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:07 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:07 OSPF: [VDQHW-ZV0Y7] ospf_check_abr_status: Start
+2025/11/21 16:06:07 OSPF: [PZHXS-BVS5A] ospf_check_abr_status: looked through areas
+2025/11/21 16:06:07 OSPF: [TZ9WD-ZDBWM] ospf_check_abr_status: bb_configured: 1
+2025/11/21 16:06:07 OSPF: [Q8HWM-6RJH5] ospf_check_abr_status: bb_act_attached: 1
+2025/11/21 16:06:07 OSPF: [M4CMD-9SG7G] ospf_check_abr_status: areas_configured: 1
+2025/11/21 16:06:07 OSPF: [VM876-MPCW2] ospf_check_abr_status: areas_act_attached: 1
+2025/11/21 16:06:07 OSPF: [QKXMK-JYGQ4] [router-LSA]: (router-LSA area update)
+2025/11/21 16:06:07 OSPF: [W161F-1GN7D] counting fully adjacent virtual neighbors in area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [YE8ZF-TCR6A] there are 0 of them
+2025/11/21 16:06:07 OSPF: [T49CC-ZS33K] ospf_lsa_maxage_delete: lsa Type1,id(10.10.45.4),ar(10.10.45.4) is not found in maxage db.
+2025/11/21 16:06:07 OSPF: [PX5CC-Z46XW] SPF: calculation timer scheduled
+2025/11/21 16:06:07 OSPF: [PQSV2-Q4Z5S] SPF: calculation timer is already scheduled: 0x5947301f6500
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth1:10.10.14.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.14.1 via r4-eth1:10.10.14.4 (default), state: Full
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth1:10.10.14.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [PVPND-T24T8] ospf_flood_through_interface: considering int r4-eth2:10.10.45.4 (default), INBR((null)), LSA[Type1,id(10.10.45.4),ar(10.10.45.4)] AGE 0
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.4 via r4-eth2:10.10.45.4 (default), state: 2-Way
+2025/11/21 16:06:07 OSPF: [RRFCS-M7Y2A] ospf_flood_through_interface: considering nbr 10.10.45.5 via r4-eth2:10.10.45.4 (default), state: Full
+2025/11/21 16:06:07 OSPF: [P43T9-HM2M6] SPF: Timer (SPF calculation expire)
+2025/11/21 16:06:07 OSPF: [S1FG7-WJ415] ospf_spf_calculate: Start: running Dijkstra for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.45.4
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.45.4
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.14.1
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Network vertex 10.10.14.1
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.14.1  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 10
+2025/11/21 16:06:07 OSPF: [ZYVWC-X5FEN] ospf_nexthop_calculation: considering link type:2 link_id:10.10.14.1 link_data:10.10.14.4
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.45.4 as parent of 10.10.14.1
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.45.5
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Network vertex 10.10.45.5
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.45.5  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 10
+2025/11/21 16:06:07 OSPF: [ZYVWC-X5FEN] ospf_nexthop_calculation: considering link type:2 link_id:10.10.45.5 link_data:10.10.45.4
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.45.4 as parent of 10.10.45.5
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Network vertex 10.10.14.1
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.14.1
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.14.1
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Network vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.4 backlink 1 nexthop 0.0.0.0 lsa pos 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Router vertex 10.10.14.1  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 10
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.14.1 as parent of 10.10.14.1
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.45.4
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Network vertex 10.10.45.5
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.45.4
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.45.5
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.45.5
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Network vertex 10.10.45.5  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.4 backlink 0 nexthop 0.0.0.0 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Router vertex 10.10.45.5  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 10
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.45.5 as parent of 10.10.45.5
+2025/11/21 16:06:07 OSPF: [RMYP3-T3NWD] ospf_intra_add_router: Start
+2025/11/21 16:06:07 OSPF: [KDTKZ-EVJMW] ospf_intra_add_router: LS ID: 10.10.14.1
+2025/11/21 16:06:07 OSPF: [KPCNN-DPESJ] ospf_intra_add_router: this router is neither ASBR nor ABR, skipping it
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.14.1
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.12.2
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Network vertex 10.10.12.2
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.14.1 backlink 1 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.12.2  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 20
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.14.1 as parent of 10.10.12.2
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.14.1
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [RMYP3-T3NWD] ospf_intra_add_router: Start
+2025/11/21 16:06:07 OSPF: [KDTKZ-EVJMW] ospf_intra_add_router: LS ID: 10.10.45.5
+2025/11/21 16:06:07 OSPF: [KPCNN-DPESJ] ospf_intra_add_router: this router is neither ASBR nor ABR, skipping it
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.45.5
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.25.5
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Network vertex 10.10.25.5
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.45.5  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.5 backlink 2 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.25.5  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 20
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.45.5 as parent of 10.10.25.5
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.35.5
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Network vertex 10.10.35.5
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.45.5  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.5 backlink 2 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.35.5  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 20
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.45.5 as parent of 10.10.35.5
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.45.5
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Network vertex 10.10.12.2
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.14.1
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.25.2
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.25.2
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Network vertex 10.10.12.2  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.14.1 backlink 0 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Router vertex 10.10.25.2  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 20
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.12.2 as parent of 10.10.25.2
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Network vertex 10.10.25.5
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.25.2
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Network vertex 10.10.25.5  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.5 backlink 1 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Router vertex 10.10.25.2  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.12.2 backlink 0 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 20
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.25.5 as parent of 10.10.25.2
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.45.5
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Network vertex 10.10.35.5
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.35.3
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Router vertex 10.10.35.3
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Network vertex 10.10.35.5  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.5 backlink 1 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Router vertex 10.10.35.3  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 20
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.35.5 as parent of 10.10.35.3
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.45.5
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [RMYP3-T3NWD] ospf_intra_add_router: Start
+2025/11/21 16:06:07 OSPF: [KDTKZ-EVJMW] ospf_intra_add_router: LS ID: 10.10.25.2
+2025/11/21 16:06:07 OSPF: [KPCNN-DPESJ] ospf_intra_add_router: this router is neither ASBR nor ABR, skipping it
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.25.2
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.12.2
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.23.3
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [GBQRT-FSAQE] ospf_vertex_new: Created Network vertex 10.10.23.3
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.25.2  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.12.2 backlink 0 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.25.5 backlink 2 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.23.3  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 30
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.25.2 as parent of 10.10.23.3
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.25.2 as parent of 10.10.23.3
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.25.5
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [RMYP3-T3NWD] ospf_intra_add_router: Start
+2025/11/21 16:06:07 OSPF: [KDTKZ-EVJMW] ospf_intra_add_router: LS ID: 10.10.35.3
+2025/11/21 16:06:07 OSPF: [KPCNN-DPESJ] ospf_intra_add_router: this router is neither ASBR nor ABR, skipping it
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Router vertex 10.10.35.3
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.23.3
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [KJPGV-JXJF5] ospf_nexthop_calculation: Start
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] V (parent): Router vertex 10.10.35.3  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.35.5 backlink 1 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] W (dest)  : Network vertex 10.10.23.3  distance 30 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.25.2 backlink 0 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.25.2 backlink 0 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [NXXE4-PQP43] V->W distance: 30
+2025/11/21 16:06:07 OSPF: [T1KGD-7A4V9] ospf_nexthop_calculation: Intervening routers, adding parent(s)
+2025/11/21 16:06:07 OSPF: [Q2T6B-4TNP1] ospf_spf_add_parent: Adding 10.10.35.3 as parent of 10.10.23.3
+2025/11/21 16:06:07 OSPF: [X4984-8R79H] ospf_spf_add_parent: ... nexthop already on parent list, skipping add
+2025/11/21 16:06:07 OSPF: [XV2ZE-KSNW9] Looking up Network LSA, ID: 10.10.35.5
+2025/11/21 16:06:07 OSPF: [S551W-V5G8F] found the LSA
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [HGJH4-ZNTR6] ospf_spf_next: Next vertex of Network vertex 10.10.23.3
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.25.2
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [VE2RF-67E8G] found Router LSA 10.10.35.3
+2025/11/21 16:06:07 OSPF: [P4ZB3-JNNHZ] The LSA is already in SPF
+2025/11/21 16:06:07 OSPF: [SK0YS-JEEHQ] SPF Result: 0 [R] 10.10.45.4
+2025/11/21 16:06:07 OSPF: [PC8JR-2QBKA] SPF Result: 1 [N] 10.10.14.1/24
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x5947301f3fe0 0.0.0.0 0
+2025/11/21 16:06:07 OSPF: [SK0YS-JEEHQ] SPF Result: 2 [R] 10.10.14.1
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bbd0 10.10.14.1 0
+2025/11/21 16:06:07 OSPF: [PC8JR-2QBKA] SPF Result: 3 [N] 10.10.12.2/24
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bbd0 10.10.14.1 0
+2025/11/21 16:06:07 OSPF: [SK0YS-JEEHQ] SPF Result: 4 [R] 10.10.25.2
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bbd0 10.10.14.1 0
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [PC8JR-2QBKA] SPF Result: 5 [N] 10.10.23.3/24
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bbd0 10.10.14.1 0
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [PC8JR-2QBKA] SPF Result: 1 [N] 10.10.45.5/24
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x5947301f67a0 0.0.0.0 1
+2025/11/21 16:06:07 OSPF: [SK0YS-JEEHQ] SPF Result: 2 [R] 10.10.45.5
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [PC8JR-2QBKA] SPF Result: 3 [N] 10.10.25.5/24
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [SK0YS-JEEHQ] SPF Result: 4 [R] 10.10.25.2
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bbd0 10.10.14.1 0
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [PC8JR-2QBKA] SPF Result: 5 [N] 10.10.23.3/24
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bbd0 10.10.14.1 0
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [PC8JR-2QBKA] SPF Result: 3 [N] 10.10.35.5/24
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [SK0YS-JEEHQ] SPF Result: 4 [R] 10.10.35.3
+2025/11/21 16:06:07 OSPF: [G5AK8-66BHD]  nexthop 0x59473020bf40 10.10.45.5 1
+2025/11/21 16:06:07 OSPF: [WS1E3-63QTY] ========== OSPF routing table ==========
+2025/11/21 16:06:07 OSPF: [PKAC5-9QWWG] N 10.10.12.0/24      0.0.0.0         intra-area 20
+2025/11/21 16:06:07 OSPF: [RT8AF-HXCSD]   -> 10.10.14.1
+2025/11/21 16:06:07 OSPF: [PKAC5-9QWWG] N 10.10.14.0/24      0.0.0.0         intra-area 10
+2025/11/21 16:06:07 OSPF: [RT8AF-HXCSD]   -> 0.0.0.0
+2025/11/21 16:06:07 OSPF: [PKAC5-9QWWG] N 10.10.23.0/24      0.0.0.0         intra-area 30
+2025/11/21 16:06:07 OSPF: [RT8AF-HXCSD]   -> 10.10.14.1
+2025/11/21 16:06:07 OSPF: [RT8AF-HXCSD]   -> 10.10.45.5
+2025/11/21 16:06:07 OSPF: [PKAC5-9QWWG] N 10.10.25.0/24      0.0.0.0         intra-area 20
+2025/11/21 16:06:07 OSPF: [RT8AF-HXCSD]   -> 10.10.45.5
+2025/11/21 16:06:07 OSPF: [PKAC5-9QWWG] N 10.10.35.0/24      0.0.0.0         intra-area 20
+2025/11/21 16:06:07 OSPF: [RT8AF-HXCSD]   -> 10.10.45.5
+2025/11/21 16:06:07 OSPF: [PKAC5-9QWWG] N 10.10.45.0/24      0.0.0.0         intra-area 10
+2025/11/21 16:06:07 OSPF: [RT8AF-HXCSD]   -> 0.0.0.0
+2025/11/21 16:06:07 OSPF: [X9F7Y-T5KZ8] ========================================
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.45.4
+2025/11/21 16:06:07 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 2 links to process
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.45.5  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Network vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.4 backlink 1 nexthop 0.0.0.0 lsa pos 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Router vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.14.1
+2025/11/21 16:06:07 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 3 links to process
+2025/11/21 16:06:07 OSPF: [RMYP3-T3NWD] ospf_intra_add_stub: Start
+2025/11/21 16:06:07 OSPF: [X2VER-QSG31] ospf_intra_add_stub: processing route to 10.10.11.0/24
+2025/11/21 16:06:07 OSPF: [H47GD-RN8CW] ospf_intra_add_stub: calculated cost is 10 + 10 = 20
+2025/11/21 16:06:07 OSPF: [QK7NM-FD67D] ospf_intra_add_stub: installing new route
+2025/11/21 16:06:07 OSPF: [NS41N-54MTJ] ospf_intra_add_stub: this network is on remote router
+2025/11/21 16:06:07 OSPF: [RX9VN-BSRSB] ospf_intra_add_stub: Stop
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.14.1  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.14.1 backlink 1 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.12.2  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Network vertex 10.10.12.2  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.14.1 backlink 0 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Router vertex 10.10.25.2  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.25.2
+2025/11/21 16:06:07 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 4 links to process
+2025/11/21 16:06:07 OSPF: [RMYP3-T3NWD] ospf_intra_add_stub: Start
+2025/11/21 16:06:07 OSPF: [X2VER-QSG31] ospf_intra_add_stub: processing route to 10.10.24.0/24
+2025/11/21 16:06:07 OSPF: [H47GD-RN8CW] ospf_intra_add_stub: calculated cost is 20 + 10 = 30
+2025/11/21 16:06:07 OSPF: [QK7NM-FD67D] ospf_intra_add_stub: installing new route
+2025/11/21 16:06:07 OSPF: [NS41N-54MTJ] ospf_intra_add_stub: this network is on remote router
+2025/11/21 16:06:07 OSPF: [RX9VN-BSRSB] ospf_intra_add_stub: Stop
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.25.2  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.12.2 backlink 0 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.25.5 backlink 2 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.23.3  distance 30 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Network vertex 10.10.23.3  distance 30 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.25.2 backlink 0 nexthop 10.10.14.1 lsa pos 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.25.2 backlink 0 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Network vertex 10.10.45.5  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.4 backlink 0 nexthop 0.0.0.0 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Router vertex 10.10.45.5  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.45.5
+2025/11/21 16:06:07 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 3 links to process
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.45.5  distance 10 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.5 backlink 2 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.25.5  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.35.5  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Network vertex 10.10.25.5  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.5 backlink 1 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Router vertex 10.10.25.2  distance 20 flags 1
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Network vertex 10.10.35.5  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.45.5 backlink 1 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Router vertex 10.10.35.3  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [XQ13G-RT96P] ospf_spf_process_stubs: processing stubs for area 0.0.0.0
+2025/11/21 16:06:07 OSPF: [YD6EH-5241W] ospf_spf_process_stubs: processing router LSA, id: 10.10.35.3
+2025/11/21 16:06:07 OSPF: [WSZ0V-4F6P1] ospf_spf_process_stubs: we have 2 links to process
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_process_stubs(): after examining links:  Router vertex 10.10.35.3  distance 20 flags 0
+2025/11/21 16:06:07 OSPF: [NVPG7-N50C8] parent 10.10.35.5 backlink 1 nexthop 10.10.45.5 lsa pos 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN] ospf_spf_calculate Router vertex 10.10.45.4  distance 0 flags 0
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.14.1  distance 10 flags 1
+2025/11/21 16:06:07 OSPF: [N0B64-84ZHN]  child: Network vertex 10.10.45.5  distance 10 flags 1
+2025/11/21 16:06:07 OSPF: [MM90D-TJ7JR] ospf_spf_calculate: Stop. 11 vertices
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.45.4
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Network vertex 10.10.14.1
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Network vertex 10.10.45.5
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.14.1
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.45.5
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Network vertex 10.10.12.2
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Network vertex 10.10.25.5
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Network vertex 10.10.35.5
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.25.2
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Router vertex 10.10.35.3
+2025/11/21 16:06:07 OSPF: [SQ30N-DRDS1] ospf_vertex_free: Free Network vertex 10.10.23.3
+2025/11/21 16:06:07 OSPF: [JAPQ7-AWTY4] ospf_ia_routing:start
+2025/11/21 16:06:07 OSPF: [WYB8H-5T9YS] ospf_ia_routing:not ABR, considering all areas
+2025/11/21 16:06:07 OSPF: [JC7WM-A8RFR] Pruning unreachable networks
+2025/11/21 16:06:07 OSPF: [Q5QBP-7T7ZK] Pruning unreachable routers
+2025/11/21 16:06:07 OSPF: [QT6FN-QCD74] ospf_spf_calculate_schedule_worker: ospf install new route, vrf default id 0 new_table count 15
+2025/11/21 16:06:07 OSPF: [V4QH8-NMP5P] Route: Router Routing Table free
+2025/11/21 16:06:07 OSPF: [HRX11-4AW3M] SPF Processing Time(usecs): 367
+2025/11/21 16:06:07 OSPF: [PTGD1-YB1H9]             SPF Time: 305
+2025/11/21 16:06:07 OSPF: [J4YGV-BR16C]            InterArea: 1
+2025/11/21 16:06:07 OSPF: [HK5RG-M3KT0]                Prune: 1
+2025/11/21 16:06:07 OSPF: [ZQD66-8SF2N]         RouteInstall: 58
+2025/11/21 16:06:07 OSPF: [GWR1S-5R9KH] Reason(s) for SPF: R, N
+2025/11/21 16:06:07 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:07 OSPF: [K6178-QCVRR] listcount = 1, [r4-eth1:10.10.14.4]dst 224.0.0.5
+2025/11/21 16:06:07 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:07 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.45.4),ar(10.10.45.4)]
+2025/11/21 16:06:07 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:07 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:07 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:07 OSPF: [K6178-QCVRR] listcount = 1, [r4-eth2:10.10.45.4]dst 224.0.0.5
+2025/11/21 16:06:07 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:07 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.45.4),ar(10.10.45.4)]
+2025/11/21 16:06:07 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:07 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:07 OSPF: [XKX19-CCEJ5] Link State Update received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:07 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:07 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:07 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.45.5]: 0x5947301f4260 new LSA created with Link State Update
+2025/11/21 16:06:07 OSPF: [NVWQG-0MJEV] LSA[Type2:10.10.45.5]: 0x59473020bba0 new LSA created with Link State Update
+2025/11/21 16:06:07 OSPF: [KPJSK-WQXZ5] ospf_lsa_discard() in ospf_ls_upd() point 6: lsa 0x5947301f4260 Type-1
+2025/11/21 16:06:07 OSPF: [KPJSK-WQXZ5] ospf_lsa_discard() in ospf_ls_upd() point 6: lsa 0x59473020bba0 Type-2
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32744, off 0, len 200, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Link State Update sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32745, off 0, len 96, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Link State Update sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:07 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32746, off 0, len 96, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:07 OSPF: [GP5SX-XSB6D] Link State Update sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:08 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32747, off 0, len 84, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:08 OSPF: [GP5SX-XSB6D] Link State Acknowledgment sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:08 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:08 OSPF: [XKX19-CCEJ5] Link State Acknowledgment received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:08 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:08 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:08 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32748, off 0, len 104, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:08 OSPF: [GP5SX-XSB6D] Link State Acknowledgment sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:08 OSPF: [RHDX2-GZB1C] SPF Processing Time(usecs): External Routes: 2
+2025/11/21 16:06:11 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:06:11 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:06:11 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32749, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:11 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:11 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32750, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:11 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:16 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:16 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:16 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:16 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:16 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:16 OSPF: [GYY50-X1B8K] ospf_ls_upd_send_queue_event start
+2025/11/21 16:06:16 OSPF: [K6178-QCVRR] listcount = 2, [r4-eth1:10.10.14.4]dst 10.10.14.1
+2025/11/21 16:06:16 OSPF: [ND8AK-4ZR1N] ospf_make_ls_upd: Start
+2025/11/21 16:06:16 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 0 LSA[Type1,id(10.10.14.1),ar(10.10.14.1)]
+2025/11/21 16:06:16 OSPF: [ZX14J-XCW80] ospf_make_ls_upd: List Iteration 1 LSA[Type1,id(10.10.45.4),ar(10.10.45.4)]
+2025/11/21 16:06:16 OSPF: [T65F2-7KT5F] ospf_make_ls_upd: Stop
+2025/11/21 16:06:16 OSPF: [SYCHD-MANYV] ospf_ls_upd_send_queue_event stop
+2025/11/21 16:06:16 OSPF: [K41K4-M4HP2] ospf_write to 10.10.14.1, id 32751, off 0, len 156, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:16 OSPF: [GP5SX-XSB6D] Link State Update sent to [10.10.14.1] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:16 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:16 OSPF: [XKX19-CCEJ5] Link State Acknowledgment received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:16 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:16 OSPF: [M2FRZ-7P2EY]  dst [10.10.14.4]
+2025/11/21 16:06:16 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:16 OSPF: [XKX19-CCEJ5] Link State Update received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:16 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:16 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:16 OSPF: [NVWQG-0MJEV] LSA[Type1:10.10.45.4]: 0x5947301f4260 new LSA created with Link State Update
+2025/11/21 16:06:16 OSPF: [KPJSK-WQXZ5] ospf_lsa_discard() in ospf_ls_upd() point 6: lsa 0x5947301f4260 Type-1
+2025/11/21 16:06:16 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:16 OSPF: [XKX19-CCEJ5] Link State Acknowledgment received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:16 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:16 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:16 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32752, off 0, len 64, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:16 OSPF: [GP5SX-XSB6D] Link State Acknowledgment sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:17 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:17 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:17 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:17 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:17 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:21 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:06:21 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:06:21 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32753, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:21 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:21 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32754, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:21 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:26 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:26 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:26 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:26 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:26 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:27 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:27 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:27 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:27 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:27 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:31 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:06:31 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:06:31 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32755, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:31 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:31 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32756, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:31 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:36 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:36 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:36 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:36 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:36 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:37 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:37 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:37 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:37 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:37 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:41 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:06:41 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:06:41 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32757, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:41 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:41 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32758, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:41 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:46 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:46 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:46 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:46 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:46 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:47 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:47 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:47 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:47 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:47 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:51 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:06:51 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:06:51 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32759, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:06:51 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:06:51 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32760, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:06:51 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:06:56 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:06:56 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:06:56 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:06:56 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:56 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:06:57 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:06:57 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:06:57 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:06:57 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:06:57 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:01 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:07:01 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:07:01 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32761, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:07:01 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:07:01 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32762, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:07:01 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:07:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:07:06 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:07:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:07:06 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:06 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:07:07 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:07:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:07:07 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:07 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:11 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:07:11 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:07:11 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32763, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:07:11 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:07:11 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32764, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:07:11 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:07:16 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:07:16 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:07:16 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:07:16 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:16 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:17 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:07:17 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:07:17 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:07:17 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:17 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:21 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:07:21 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:07:21 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32765, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:07:21 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:07:21 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32766, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:07:21 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:07:26 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:07:26 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:07:26 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:07:26 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:26 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:27 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:07:27 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:07:27 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:07:27 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:27 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:31 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:07:31 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:07:31 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32767, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:07:31 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:07:31 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32768, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:07:31 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:07:36 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:07:36 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:07:36 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:07:36 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:36 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:37 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:07:37 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:07:37 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:07:37 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:37 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:41 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:07:41 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:07:41 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32769, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:07:41 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:07:41 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32770, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:07:41 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:07:46 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:07:46 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:07:46 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:07:46 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:46 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:47 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:07:47 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:07:47 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:07:47 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:47 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:51 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:07:51 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:07:51 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32771, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:07:51 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:07:51 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32772, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:07:51 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:07:56 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:07:56 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:07:56 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:07:56 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:56 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:07:57 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:07:57 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:07:57 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:07:57 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:07:57 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:08:01 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:08:01 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:08:01 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32773, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:08:01 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:08:01 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32774, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:08:01 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:08:06 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:08:06 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:08:06 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:08:06 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:08:06 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:08:07 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:08:07 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:08:07 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:08:07 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:08:07 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:08:11 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth1:10.10.14.4
+2025/11/21 16:08:11 OSPF: [JM0T4-6WPRP] ospf_make_hello: options: 2, int: r4-eth2:10.10.45.4
+2025/11/21 16:08:11 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32775, off 0, len 68, interface r4-eth1, mtu 1500:
+2025/11/21 16:08:11 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth1:10.10.14.4].
+2025/11/21 16:08:11 OSPF: [K41K4-M4HP2] ospf_write to 224.0.0.5, id 32776, off 0, len 68, interface r4-eth2, mtu 1500:
+2025/11/21 16:08:11 OSPF: [GP5SX-XSB6D] Hello sent to [224.0.0.5] via [r4-eth2:10.10.45.4].
+2025/11/21 16:08:16 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 2(r4-eth1)
+2025/11/21 16:08:16 OSPF: [XKX19-CCEJ5] Hello received from [10.10.14.1] via [r4-eth1:10.10.14.4]
+2025/11/21 16:08:16 OSPF: [V439X-4A3WH]  src [10.10.14.1],
+2025/11/21 16:08:16 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:08:16 OSPF: [SSJDW-NANMS] Packet 10.10.14.1 [Hello:RECV]: Options on r4-eth1:10.10.14.4 *|-|-|-|-|-|E|- vrf default
+2025/11/21 16:08:17 OSPF: [RH00G-HCE79] ospf_recv_packet: fd 15(default) on interface 3(r4-eth2)
+2025/11/21 16:08:17 OSPF: [XKX19-CCEJ5] Hello received from [10.10.45.5] via [r4-eth2:10.10.45.4]
+2025/11/21 16:08:17 OSPF: [V439X-4A3WH]  src [10.10.45.5],
+2025/11/21 16:08:17 OSPF: [M2FRZ-7P2EY]  dst [224.0.0.5]
+2025/11/21 16:08:17 OSPF: [SSJDW-NANMS] Packet 10.10.45.5 [Hello:RECV]: Options on r4-eth2:10.10.45.4 *|-|-|-|-|-|E|- vrf default

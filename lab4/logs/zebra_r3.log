@@ -1,0 +1,110 @@
+2025/11/21 15:57:17 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 10.10.23.0/24(254) 2 vrf: 0
+2025/11/21 15:57:17 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix fe80::/64(254) 2 vrf: 0
+2025/11/21 15:57:17 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 10.10.35.0/24(254) 2 vrf: 0
+2025/11/21 15:57:18 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 2001:1:0:35::/64(254) 2 vrf: 0
+2025/11/21 15:57:19 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 2001:1:0:23::/64(254) 2 vrf: 0
+2025/11/21 15:57:50 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_HELLO:0:19] comes from socket [15]
+2025/11/21 15:57:50 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_INTERFACE_ADD:0:10] comes from socket [15]
+2025/11/21 15:57:50 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_BFD_CLIENT_REGISTER:0:14] comes from socket [15]
+2025/11/21 15:57:50 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTER_ID_ADD:0:12] comes from socket [15]
+2025/11/21 15:57:50 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_INTERFACE_ADD:0:10] comes from socket [15]
+2025/11/21 15:57:50 ZEBRA: [V3DSZ-Y9H3W] Read 5 packets from client: system
+2025/11/21 15:57:50 ZEBRA: [V98V0-MTWPF] client 15 says hello and bids fair to announce only ospf6 routes vrf=0
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_HELLO:0:19] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_INTERFACE_ADD:0:10] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_BFD_CLIENT_REGISTER:0:14] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTER_ID_ADD:0:12] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_INTERFACE_ADD:0:10] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTER_ID_ADD:0:12] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_INTERFACE_ADD:0:10] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [V3DSZ-Y9H3W] Read 7 packets from client: system
+2025/11/21 15:58:14 ZEBRA: [V98V0-MTWPF] client 33 says hello and bids fair to announce only ospf routes vrf=0
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:43] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:43] comes from socket [33]
+2025/11/21 15:58:14 ZEBRA: [V3DSZ-Y9H3W] Read 2 packets from client: ospf
+2025/11/21 15:58:14 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.23.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:58:14 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=if 2, vrf_id=0 
+2025/11/21 15:58:14 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.35.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:58:14 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=if 3, vrf_id=0 
+2025/11/21 15:58:14 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 10.10.23.0/24(254) 2 vrf: 0
+2025/11/21 15:58:14 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 10.10.35.0/24(254) 2 vrf: 0
+2025/11/21 15:58:15 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:15 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:25 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:25 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:27 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:27 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:35 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:35 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:37 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:37 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:45 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:45 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:47 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:47 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:54 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:54 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:54 ZEBRA: [V3DSZ-Y9H3W] Read 2 packets from client: ospf
+2025/11/21 15:58:54 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:54 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:58:57 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:58:57 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:59:04 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:47] comes from socket [33]
+2025/11/21 15:59:04 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:47] comes from socket [33]
+2025/11/21 15:59:04 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:47] comes from socket [33]
+2025/11/21 15:59:04 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:47] comes from socket [33]
+2025/11/21 15:59:04 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:47] comes from socket [33]
+2025/11/21 15:59:04 ZEBRA: [V3DSZ-Y9H3W] Read 5 packets from client: ospf
+2025/11/21 15:59:04 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.11.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:04 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.23.2, vrf_id=0, ifindex=2
+2025/11/21 15:59:04 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.23.2 if 2, vrf_id=0 
+2025/11/21 15:59:04 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.12.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:04 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.23.2, vrf_id=0, ifindex=2
+2025/11/21 15:59:04 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.23.2 if 2, vrf_id=0 
+2025/11/21 15:59:04 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.14.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:04 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.23.2, vrf_id=0, ifindex=2
+2025/11/21 15:59:04 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.23.2 if 2, vrf_id=0 
+2025/11/21 15:59:04 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.24.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:04 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.23.2, vrf_id=0, ifindex=2
+2025/11/21 15:59:04 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.23.2 if 2, vrf_id=0 
+2025/11/21 15:59:04 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.25.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:04 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.23.2, vrf_id=0, ifindex=2
+2025/11/21 15:59:04 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.23.2 if 2, vrf_id=0 
+2025/11/21 15:59:04 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.11.0/24(254) 2 vrf: 0
+2025/11/21 15:59:04 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.12.0/24(254) 2 vrf: 0
+2025/11/21 15:59:04 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.14.0/24(254) 2 vrf: 0
+2025/11/21 15:59:04 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.24.0/24(254) 2 vrf: 0
+2025/11/21 15:59:04 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.25.0/24(254) 2 vrf: 0
+2025/11/21 15:59:07 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_NEIGH_DISCOVER:0:20] comes from socket [33]
+2025/11/21 15:59:07 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:59:07 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_DELETE:0:27] comes from socket [33]
+2025/11/21 15:59:07 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:59:07 ZEBRA: [HT241-2F7BY] zread_route_del: p=(0:254)10.10.35.0/24, msg flags=0x0, flags=0x0
+2025/11/21 15:59:07 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 10.10.35.0/24(254) 2 vrf: 0
+2025/11/21 15:59:07 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:43] comes from socket [33]
+2025/11/21 15:59:07 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:59:07 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.35.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:07 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=if 3, vrf_id=0 
+2025/11/21 15:59:07 ZEBRA: [TQKA8-0276P] Not Notifying Owner: connected about prefix 10.10.35.0/24(254) 2 vrf: 0
+2025/11/21 15:59:17 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:61] comes from socket [33]
+2025/11/21 15:59:17 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:59:17 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.25.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:17 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.23.2, vrf_id=0, ifindex=2
+2025/11/21 15:59:17 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.23.2 if 2, vrf_id=0 
+2025/11/21 15:59:17 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.35.5, vrf_id=0, ifindex=3
+2025/11/21 15:59:17 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.35.5 if 3, vrf_id=0 
+2025/11/21 15:59:17 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:47] comes from socket [33]
+2025/11/21 15:59:17 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 15:59:17 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.45.0/24, msg flags=0x5, flags=0x0
+2025/11/21 15:59:17 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.35.5, vrf_id=0, ifindex=3
+2025/11/21 15:59:17 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.35.5 if 3, vrf_id=0 
+2025/11/21 15:59:17 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.25.0/24(254) 2 vrf: 0
+2025/11/21 15:59:17 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.45.0/24(254) 2 vrf: 0
+2025/11/21 16:06:16 ZEBRA: [YXG8K-BCYMV] zebra message[ZEBRA_ROUTE_ADD:0:61] comes from socket [33]
+2025/11/21 16:06:16 ZEBRA: [V3DSZ-Y9H3W] Read 1 packets from client: ospf
+2025/11/21 16:06:16 ZEBRA: [HT241-2F7BY] zread_route_add: p=(0:0)10.10.14.0/24, msg flags=0x5, flags=0x0
+2025/11/21 16:06:16 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.23.2, vrf_id=0, ifindex=2
+2025/11/21 16:06:16 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.23.2 if 2, vrf_id=0 
+2025/11/21 16:06:16 ZEBRA: [QTHVB-8XP01] nexthop_from_zapi: nh=10.10.35.5, vrf_id=0, ifindex=3
+2025/11/21 16:06:16 ZEBRA: [NFFEX-16SYW] zapi_read_nexthops: nh=10.10.35.5 if 3, vrf_id=0 
+2025/11/21 16:06:16 ZEBRA: [TQKA8-0276P] Not Notifying Owner: ospf about prefix 10.10.14.0/24(254) 2 vrf: 0
