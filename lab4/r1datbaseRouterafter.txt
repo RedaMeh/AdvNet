@@ -1,0 +1,160 @@
+show ip ospf database router
+
+       OSPF Router with ID (10.10.14.1)
+
+
+                Router Link States (Area 0.0.0.0)
+
+  LS age: 914
+  Options: 0x2  : *|-|-|-|-|-|E|-
+  LS Flags: 0x3  
+  Flags: 0x0
+  LS Type: router-LSA
+  Link State ID: 10.10.14.1 
+  Advertising Router: 10.10.14.1
+  LS Seq Number: 80000009
+  Checksum: 0x0c14
+  Length: 60
+
+   Number of Links: 3
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.12.2
+(Link Data) Router Interface address: 10.10.12.1
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.14.1
+     (Link Data) Router Interface address: 10.10.14.1
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+    Link connected to: Stub Network
+     (Link ID) Net: 10.10.11.0
+     (Link Data) Network Mask: 255.255.255.0
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+
+  LS age: 1333
+  Options: 0x2  : *|-|-|-|-|-|E|-
+  LS Flags: 0x6  
+  Flags: 0x0
+  LS Type: router-LSA
+  Link State ID: 10.10.25.2 
+  Advertising Router: 10.10.25.2
+  LS Seq Number: 8000000d
+  Checksum: 0xa5c0
+  Length: 72
+
+   Number of Links: 4
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.12.2
+     (Link Data) Router Interface address: 10.10.12.2
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.23.3
+     (Link Data) Router Interface address: 10.10.23.2
+      Number of TOS metrics: 0
+TOS 0 Metric: 10
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.25.5
+     (Link Data) Router Interface address: 10.10.25.2
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+    Link connected to: Stub Network
+     (Link ID) Net: 10.10.24.0
+     (Link Data) Network Mask: 255.255.255.0
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+
+  LS age: 1334
+  Options: 0x2  : *|-|-|-|-|-|E|-
+  LS Flags: 0x6  
+  Flags: 0x0
+  LS Type: router-LSA
+  Link State ID: 10.10.35.3 
+  Advertising Router: 10.10.35.3
+  LS Seq Number: 80000007
+  Checksum: 0xc51e
+  Length: 48
+
+   Number of Links: 2
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.23.3
+     (Link Data) Router Interface address: 10.10.23.3
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+          
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.35.5
+     (Link Data) Router Interface address: 10.10.35.3
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+ LS age: 913
+  Options: 0x2  : *|-|-|-|-|-|E|-
+  LS Flags: 0x6  
+  Flags: 0x0
+  LS Type: router-LSA
+  Link State ID: 10.10.45.4 
+  Advertising Router: 10.10.45.4
+  LS Seq Number: 80000006
+  Checksum: 0x1eae
+  Length: 48
+
+   Number of Links: 2
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.14.1
+     (Link Data) Router Interface address: 10.10.14.4
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.45.5
+     (Link Data) Router Interface address: 10.10.45.4
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+
+  LS age: 914
+  Options: 0x2  : *|-|-|-|-|-|E|-
+  LS Flags: 0x6  
+  Flags: 0x0
+  LS Type: router-LSA
+  Link State ID: 10.10.45.5 
+  Advertising Router: 10.10.45.5
+  LS Seq Number: 80000009
+  Checksum: 0x9485
+  Length: 60
+
+
+ Number of Links: 3
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.25.5
+     (Link Data) Router Interface address: 10.10.25.5
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.35.5
+     (Link Data) Router Interface address: 10.10.35.5
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
+    Link connected to: a Transit Network
+     (Link ID) Designated Router address: 10.10.45.5
+     (Link Data) Router Interface address: 10.10.45.5
+      Number of TOS metrics: 0
+       TOS 0 Metric: 10
+
